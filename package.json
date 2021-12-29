@@ -1,0 +1,17 @@
+{
+  "name": "great-walks-availability-checker",
+  "version": "1.0.0",
+  "scripts": {
+    "run": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theramis/great-walks-availability-checker.git"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.17.1"
+  },
+  "dependencies": {
+    "pushbullet": "^2.4.0"
+  }
+}
